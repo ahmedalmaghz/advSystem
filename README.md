@@ -1,6 +1,6 @@
 # adssystem
-Ads system with mutli language admin panel <br>
-This project build by laraflat <a href="https://github.com/zizohassan/laraflat">LaraFlat</a>
+Adv system with mutli language admin panel <br>
+
 
 
 ## Download The Files 
